@@ -28,5 +28,5 @@ after entering last row click on the fisrt box in sudoku then wait.
 
 # For GUI version is goes like this
 </br>
-![](https://raw.githubusercontent.com/badrithapa/Sudoku_Solver/main/row.png?raw=true)</br></br>
+![any](https://raw.githubusercontent.com/badrithapa/Sudoku_Solver/main/row.png?raw=true) </br>
 <img src="./sudoku.png">
