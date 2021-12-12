@@ -28,5 +28,5 @@ after entering last row click on the fisrt box in sudoku then wait.
 
 # For GUI version is goes like this
 </br>
-![Input image](row.png)</br></br>
-![](sudoku.png)
+![Input image](row.png?raw=true)</br></br>
+![](sudoku.png?raw=true)
