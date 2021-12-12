@@ -25,3 +25,8 @@ Row 8 Complete
 Row: 049206007
 ```
 after entering last row click on the fisrt box in sudoku then wait.
+
+# For GUI version is goes like this
+</br>
+![Input image] (/row.png "Input Row")</br></br>
+![Solved sudoku from Sudoku.com] (/sudoku.png "Solved")
