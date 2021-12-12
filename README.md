@@ -28,5 +28,5 @@ after entering last row click on the fisrt box in sudoku then wait.
 
 # For GUI version is goes like this
 </br>
-![Input image] (row.png "Input Row")</br></br>
-![Solved sudoku from Sudoku.com] (sudoku.png "Solved")
+![Input image] (row.png)</br></br>
+![Solved sudoku from Sudoku.com] (sudoku.png)
